@@ -4867,7 +4867,7 @@ pp-stark-industries@../stark-industries:
     express "4.17.3"
     lodash "4.17.21"
     rxjs "7.5.5"
-    snakecase-keys "^5.4.1"
+    snakecase-keys "5.4.1"
 
 prelude-ls@^1.2.1:
   version "1.2.1"
@@ -5442,7 +5442,7 @@ snake-case@^3.0.4:
     dot-case "^3.0.4"
     tslib "^2.0.3"
 
-snakecase-keys@^5.4.1:
+snakecase-keys@5.4.1:
   version "5.4.1"
   resolved "https://registry.yarnpkg.com/snakecase-keys/-/snakecase-keys-5.4.1.tgz#ab04437ddaee71834b4d60062350f3d98e3321c9"
   integrity sha512-XjOWwWUu+IfIS95K/4+MPBCr4FlY0KBQC5PUHAa/rTEZgbC3+cqIAu0AGlSWq1jRPu8mHeXqdOpMRIBRYhRqyA==
