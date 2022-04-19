@@ -45,7 +45,7 @@
         "mysql": "2.18.1",
         "passport": "0.5.2",
         "passport-jwt": "4.0.0",
-        "pp-stark-industries": "../stark-industries",
+        "pp-stark-industries": "git+ssh://git@github.com:peerpower/stark-industries.git",
         "reflect-metadata": "0.1.13",
         "rxjs": "7.5.5",
         "swagger-ui-express": "4.1.6",
@@ -103,7 +103,7 @@
         "moduleNameMapper": {
             "@modules/(.*)": "<rootDir>/modules/$1",
             "@utils/(.*)": "<rootDir>/utils/$1",
-            "@swagger/(.*)": ">rootDir>/swagger/$1"
+            "@swagger/(.*)": "<rootDir>/swagger/$1"
         }
     },
     "lint-staged": {

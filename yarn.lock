@@ -4858,8 +4858,9 @@ pkg-dir@^4.2.0:
   dependencies:
     find-up "^4.0.0"
 
-pp-stark-industries@../stark-industries:
+"pp-stark-industries@git+ssh://git@github.com:peerpower/stark-industries.git":
   version "1.0.0"
+  resolved "git+ssh://git@github.com:peerpower/stark-industries.git#618ec62ba0f070233a583496d3cf6f8c72e98fb5"
   dependencies:
     "@nestjs/common" "8.0.6"
     "@nestjs/core" "8.0.6"
