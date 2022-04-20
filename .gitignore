@@ -24,3 +24,6 @@ yarn-error.log
 build/config\.gypi
 
 sqlite-example.sql
+
+config.yaml
+.eslintcache
